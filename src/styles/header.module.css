@@ -1,0 +1,15 @@
+.main_container{
+    height: 70px;
+    background-color: #ffffff;
+    border-bottom: 2px solid gray;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+
+
+}
+
+.logo{
+    width: 180px;
+}
