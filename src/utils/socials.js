@@ -1,4 +1,6 @@
- import { ImBlogger2 } from "react-icons/im";
+ import { FiTwitter} from "react-icons/fi";
+ import { BiLogoFacebook} from "react-icons/bi";
+ import { AiOutlineInstagram} from "react-icons/ai";
 
 
-const social = [<ImBlogger2/>, "Twitter", "Facebook", "LinkedIn", "Instagram"];
+export const social = [<FiTwitter/>, <BiLogoFacebook/>, <AiOutlineInstagram/>];

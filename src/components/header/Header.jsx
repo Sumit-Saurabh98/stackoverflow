@@ -6,7 +6,7 @@ import {
   Text,
 } from "@chakra-ui/react";
 import React from "react";
-import style from "../styles/header.module.css";
+import style from "./../../styles/header.module.css"
 import { BiNotification } from "react-icons/bi";
 import { AiOutlineTrophy } from "react-icons/ai";
 
