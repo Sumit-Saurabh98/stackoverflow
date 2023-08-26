@@ -31,7 +31,6 @@ function QuestionStructure({questions}) {
       flex="1"
       overflowY="auto"
       borderRight={"1px solid gray"}
-      // borderLeft={"1px solid gray"}
       padding="0 40px"
     >
       <QuestionHeder/>
